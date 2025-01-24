@@ -1,8 +1,8 @@
 # FIGMA-TASK_-1
 **COMPANY**:CODETECH IT SOLUTIONS
 **NAME**:KAVI PRIYA S
-**INTERN ID**:COO11111
-**DOMAIN**:UI/UX,FIGMA
+**INTERN ID**:CT08FSG
+**DOMAIN**:UI/UX
 **DURATION**:4 WEEKS
 **MENTOR**:NEELA SANTOSH
 **DESCRIPTION**:The redesign presented in the image focuses on creating a modern, clean, and user-friendly website landing page that emphasizes usability and aesthetics. Here are the key elements of the design:
