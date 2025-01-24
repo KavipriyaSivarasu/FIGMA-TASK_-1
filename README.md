@@ -27,5 +27,4 @@ Consistency: Design elements, such as rounded buttons and aligned sections, ensu
 The design is optimized to work seamlessly on mobile devices, ensuring it adapts to different screen sizes without losing functionality or aesthetics.
 This redesign prioritizes simplicity, intuitive navigation, and a visually appealing layout to create an enjoyable user experience while meeting modern design standards. Let me know if you'd like specific parts of the design explained in more detail!
 **OUTPUT**:
-
-![Image](https://github.com/user-attachments/assets/95be2b5d-0f21-468f-bd9b-ccc22bb0f232)
+![Image](https://github.com/user-attachments/assets/c7523f6d-3dc9-4c79-8b85-8e3059228258)
